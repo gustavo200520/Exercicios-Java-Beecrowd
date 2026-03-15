@@ -1,6 +1,8 @@
 package exercicios_beecrowd.inciante;
 import java.util.Scanner;
 import java.io.IOException;
+//Lembrar que no beecrowd a classe deve ser Main e nao pode ter o package
+
 public class Ex1134 {
 	public static void main(String[] args) throws IOException{
 		Scanner teclado = new Scanner(System.in);
